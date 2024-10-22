@@ -4,7 +4,7 @@ This is a simple project to demonstrate how to use [Rye](https://rye.astral.sh/)
 
 This project was created using the following command:
 
-```bash
+```zsh
 % rye init --script hello-rye
 % cd hello-rye
 % rye sync
